@@ -1,0 +1,16 @@
+{
+  "name": "aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thusara Senanayake <thusarasenanayake.dev@gmail.com> (http://thusarasenanayake.github.io/)",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "2.1450.0"
+  }
+}

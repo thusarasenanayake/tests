@@ -1,0 +1,29 @@
+{
+  "name": "ws-server",
+  "version": "0.1.0",
+  "description": "",
+  "private": "true",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thusarasenanayake/ws-server.git"
+  },
+  "keywords": [],
+  "author": "Thusara Senanayake <89896736+thusarasenanayake@users.noreply.github.com> (http://thusarasenanayake.github.io)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index",
+    "dev": "",
+    "build": "",
+    "test": "",
+    "predeploy": "",
+    "deploy": ""
+  },
+  "bugs": {
+    "url": "https://github.com/thusarasenanayake/ws-server/issues"
+  },
+  "homepage": "https://github.com/thusarasenanayake/ws-server#readme",
+  "dependencies": {
+    "ws": "8.14.2"
+  }
+}
