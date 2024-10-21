@@ -1,0 +1,6 @@
+git --work-tree="../website" checkout -f
+
+cd ../website
+# cp ../secrets/.env .
+pnpm i 
+pnpm run dev
