@@ -1,0 +1,9 @@
+[
+  { "id": 1, "countryId": 1, "name": "Colombo" },
+  { "id": 2, "countryId": 1, "name": "Galle" },
+  { "id": 3, "countryId": 1, "name": "Jaffna" },
+  { "id": 4, "countryId": 2, "name": "New York" },
+  { "id": 5, "countryId": 2, "name": "Seattle" },
+  { "id": 6, "countryId": 2, "name": "Washington" },
+  { "id": 7, "countryId": 3, "name": "London" }
+]
